@@ -1,6 +1,7 @@
-# 🧭 3. From Balance to Insight: Building a Life-Work Framework with an Analytics Lens  
+# 🧭 3. From Balance to Insight
 Part 3 of Analytical Think Pieces
 
+Building a Life-Work Framework with an Analytics Lens  
 
 Work-life balance isn’t about equal hours — it’s about **pattern recognition**.  
 By observing how you spend time, you can predict burnout before it hits.  
