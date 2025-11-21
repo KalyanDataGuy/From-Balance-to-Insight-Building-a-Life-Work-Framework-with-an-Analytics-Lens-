@@ -19,5 +19,7 @@ The key is to analyze life like a dashboard: not to optimize every minute,
 but to ensure meaning drives motion.  
 
 ✨ **Takeaway:** Balance emerges when data meets self-awareness.  
+---
+<img width="1024" height="1536" alt="KalyanDataGuy Analytical3" src="https://github.com/user-attachments/assets/8c632c0e-70af-4f3f-bb9b-5c55d4643e60" />
 
 *KalyanDataGuy © 2025*  
